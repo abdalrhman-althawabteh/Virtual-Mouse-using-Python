@@ -14,7 +14,7 @@ This project demonstrates a virtual mouse implemented in Python using hand track
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/virtual-mouse.git
+    git@github.com:abdalrhman-althawabteh/Virtual-Mouse-using-Python.git
     ```
 2. Navigate to the project directory:
     ```
