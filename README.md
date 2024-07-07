@@ -42,7 +42,3 @@ This project demonstrates a virtual mouse implemented in Python using hand track
 ## Acknowledgements
 
 This project was inspired by the tutorial from Programming Hero. You can watch the original tutorial [here](https://www.youtube.com/watch?v=vJWzH_2F64g&ab_channel=ProgrammingHero).
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
